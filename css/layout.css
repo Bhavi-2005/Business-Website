@@ -1,0 +1,14 @@
+.navbar{
+display:flex;
+justify-content:center;
+gap:20px;
+padding:10px;
+background:#ddd;
+}
+
+.services-grid{
+display:grid;
+grid-template-columns:repeat(3,1fr);
+gap:20px;
+padding:20px;
+}
