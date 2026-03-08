@@ -15,5 +15,3 @@ This is a responsive business website built using HTML, CSS, and JavaScript.
 - About
 - Services
 - Contact
-
-## Website URL
