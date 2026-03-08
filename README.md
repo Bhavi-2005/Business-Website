@@ -115,6 +115,7 @@ main.js
 form-validation.js
 
 images/
+gym.jpg
 
 README.md
 .gitignore
